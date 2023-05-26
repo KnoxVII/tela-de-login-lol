@@ -200,7 +200,7 @@ main {
 .wallpaper {
     background-image: url(./imagens/Splash\ -\ M.Fortune.jpg);
     background-size: cover;
-    background-position: center;
+    background-position: center right;
     flex: 1;
     width: 100%;
 }
